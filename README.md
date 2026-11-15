@@ -15,3 +15,5 @@ We created a synthetic dataset (teen_finances.csv) of 180 teen transactions labe
 Accuracy Gain: Adding teen keyword rules to our baseline TF-IDF + Logistic Regression model boosted classification accuracy from 75% to 90%.
 Limitations & Future Work: Because the model uses 180 synthetic examples, unfamiliar local store names can occasionally be misclassified. Future updates will add user label corrections and CSV imports from teen debit cards.
 
+**2-Minute Demo Video:** [Watch the Live Demo](https://youtu.be/Oe5qiOS6L7M)
+
